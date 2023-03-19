@@ -11,7 +11,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue" />
+  <HelloWorld msg="Vite + Vue!asd!asd" />
 </template>
 
 <style scoped>
@@ -22,6 +22,7 @@ import HelloWorld from './components/HelloWorld.vue'
   transition: filter 300ms;
 }
 .logo:hover {
+
   filter: drop-shadow(0 0 2em #646cffaa);
 }
 .logo.vue:hover {
